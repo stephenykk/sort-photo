@@ -1,0 +1,28 @@
+{
+  "name": "sort-photo",
+  "version": "1.0.0",
+  "description": "sort photo as date",
+  "main": "sortPhoto.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephenykk/sort-photo.git"
+  },
+  "dependencies": {
+    "debug": "^2.6.0",
+    "exif": "^0.6.0",
+    "ms": "^0.7.2",
+    "image-size": "^0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sort",
+    "photo",
+    "date",
+    "picture"
+  ],
+  "author": "stephenykk@163.com",
+  "license": "ISC"
+}
